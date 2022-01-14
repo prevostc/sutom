@@ -135,9 +135,9 @@ function HomeContent() {
           Vous ne pouvez proposer que des mots commençant par la même lettre que
           le mot recherché, et qui se trouvent dans notre dictionnaire.
           <br />
-          Les lettres entourées d'un carré rouge sont bien placées,
+          Les lettres entourées d&quot;un carré rouge sont bien placées,
           <br />
-          les lettres entourées d'un cercle jaune sont mal placées (mais
+          les lettres entourées d&quot;un cercle jaune sont mal placées (mais
           présentes dans le mot).
           <br />
           Les lettres qui restent sur fond bleu ne sont pas dans le mot.
@@ -147,17 +147,25 @@ function HomeContent() {
           <br />
           En cas de soucis, vous pouvez contacter{" "}
           <a href="https://twitter.com/clemtoune">@clemtoune</a> sur twitter. −
-          <a target="_blank" href="https://github.com/prevostc/sutom-next">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://github.com/prevostc/sutom-next"
+          >
             Page du projet
           </a>
           <br />
-          Basé sur l'excellent{" "}
-          <a target="_blank" href="https://www.powerlanguage.co.uk/wordle/">
+          Basé sur l&quot;excellent{" "}
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.powerlanguage.co.uk/wordle/"
+          >
             Wordle
           </a>{" "}
           et le regretté Motus.
           <br />
-          Merci à Emmanuel pour l'aide sur le dictionnaire.
+          Merci à Emmanuel pour l&quot;aide sur le dictionnaire.
         </p>
       </div>
     </div>
